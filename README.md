@@ -4,7 +4,8 @@ TypeAhead is a lightning-fast, highly scalable search suggestion system built to
 
 This project was built to satisfy the **Search Typeahead System Assignment** requirements, demonstrating advanced backend data-system design, distributed caching, and optimized database reads/writes.
 
-<img width="1331" height="929" alt="Screenshot from 2026-06-21 22-50-31" src="https://github.com/user-attachments/assets/a52a290a-170c-450e-abbd-27638991f7a4" />
+<img width="1469" height="833" alt="Screenshot 2026-06-22 at 8 22 46 AM" src="https://github.com/user-attachments/assets/55f6e1db-ebfc-4287-a9da-681315d47136" />
+
 
 
 
